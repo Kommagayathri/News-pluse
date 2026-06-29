@@ -17,6 +17,9 @@ https://news-pluse-production.up.railway.app
 ### GitHub Repository
 https://github.com/Kommagayathri/News-pluse
 
+### Video walkthrough
+https://drive.google.com/file/d/1KDYUv8D4cmEHY9HibqWta1iJ_tAos8fH/view?usp=sharing
+
 ---
 
 # 📸 Screenshots
